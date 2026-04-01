@@ -24,10 +24,4 @@
 
 Замените `твой-тестовый-id` на реальный ID с сайта [formspree.io](https://formspree.io).
 
-## Публикация на GitHub Pages
 
-1. Создайте репозиторий на [github.com](https://github.com)
-2. Загрузите `index.html`
-3. Перейдите в **Settings → Pages**
-4. В разделе **Branch** выберите `main` и нажмите **Save**
-5. Сайт будет доступен по адресу `https://ваш-ник.github.io/название-репозитория`
